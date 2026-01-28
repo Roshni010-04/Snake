@@ -43,6 +43,10 @@ How to Run the Project
 3. Run the `index.html` file in any modern web browser  
 4. Start playing using arrow keys  
 
+Screenshots:
+start_game.png
+gameover.png
+
 Learning Outcomes
 
 - JavaScript logic building
